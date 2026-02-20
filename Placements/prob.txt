@@ -1,0 +1,16 @@
+Fibonacci series 
+Check if a number is Palindrome 
+Reverse a number 
+Reverse a String 
+Check if a number is Prime 
+Check if a String is Palindrome 
+Factorial of a number 
+
+Armstrong number
+Perfect number
+Swap two numbers (with & without third variable)
+Count digits in a number
+Sum of digits
+Find largest of three numbers
+Print multiplication table
+Check even or odd

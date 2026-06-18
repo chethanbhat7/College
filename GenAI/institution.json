@@ -1,0 +1,44 @@
+{
+  "Indian Institute of Science": {
+    "founder": "Jamsetji Tata",
+    "founded": "1909",
+    "branches": ["Bengaluru"],
+    "number_of_employees": 3500,
+    "summary": "A premier public research university in Bengaluru known for advanced scientific and technological research."
+  },
+  "Indian Institute of Technology Bombay": {
+    "founder": null,
+    "founded": "1958",
+    "branches": ["Mumbai"],
+    "number_of_employees": 2200,
+    "summary": "One of India's leading engineering institutions offering undergraduate, postgraduate, and doctoral programs."
+  },
+  "Global Tech University": {
+    "founder": "John Smith",
+    "founded": "2005",
+    "branches": ["New Delhi", "Pune"],
+    "number_of_employees": 420,
+    "summary": "An educational organization focused on computer science, business studies, and research."
+  },
+  "AI Research Institute": {
+    "founder": "Prof. Meera Rao",
+    "founded": "2012",
+    "branches": ["Hyderabad"],
+    "number_of_employees": 150,
+    "summary": "A specialized institute providing education and research in artificial intelligence, machine learning, and data science."
+  },
+  "Southern State University": {
+    "founder": null,
+    "founded": "1985",
+    "branches": ["Chennai", "Coimbatore", "Madurai"],
+    "number_of_employees": 1200,
+    "summary": "A multi-campus university offering programs in engineering, medicine, management, and humanities."
+  },
+  "Skill Development Academy": {
+    "founder": "Rakesh Sharma",
+    "founded": "2015",
+    "branches": ["Bhopal", "Indore"],
+    "number_of_employees": 300,
+    "summary": "An institution dedicated to vocational training and skill development for students and professionals."
+  }
+}
